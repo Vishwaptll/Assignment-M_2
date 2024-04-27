@@ -1,0 +1,11 @@
+
+table{
+    background-color: rgb(67, 69, 69); color: rgb(210, 190, 194);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    border: double;
+    width: 40%;
+    height: 50%;
+    text-align: center;
+
+}
